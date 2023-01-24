@@ -1,7 +1,7 @@
 const imgURLs = {
   github_readme_streak_stats: 'https://github-readme-streak-stats.herokuapp.com/?user=Gorniaky&theme=github-dark&hide_border=true&background=00000000',
   github_readme_stats: 'https://github-readme-stats.vercel.app/api?username=Gorniaky&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000',
-  github_contribution_grid_snake: 'https://github.com/Gorniaky/Gorniaky/raw/output/github-contribution-grid-snake.svg',
+  github_contribution_grid_snake: 'https://github.com/Gorniaky/Gorniaky/raw/snake/github-contribution-grid-snake.svg',
   github_readme_stats_top_langs: 'https://github-readme-stats.vercel.app/api/top-langs/?username=Gorniaky&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000',
   img_linkedin: 'https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white',
   img_gmail: 'https://img.shields.io/badge/hwss.s2-D14836?style=for-the-badge&logo=gmail&logoColor=white',
